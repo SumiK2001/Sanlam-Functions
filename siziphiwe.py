@@ -1,1 +1,3 @@
-print_phiwe
+def print_phiwe():
+    print("phiwe")
+print_phiwe();
